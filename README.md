@@ -48,9 +48,8 @@ The verification environment consists of:
 <img width="878" height="511" alt="image" src="https://github.com/user-attachments/assets/1512bdd8-10e3-40a7-94fe-5d6f5256da7b" />
 
 
-> *(Add your UVM architecture block diagram here.)*
 
----
+
 
 ## Components Description
 

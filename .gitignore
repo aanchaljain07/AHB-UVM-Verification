@@ -1,0 +1,20 @@
+# Cadence
+INCA_libs/
+cov_work/
+.simvision/
+
+# Logs
+*.log
+*.history
+
+# Waveforms
+*.vcd
+*.fsdb
+*.shm
+
+# Coverage
+coverage/
+
+# Temporary
+*.swp
+*.tmp
